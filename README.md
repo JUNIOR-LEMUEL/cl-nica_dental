@@ -1,1 +1,1 @@
-# cl-nica_dental
+# clínica_dental
